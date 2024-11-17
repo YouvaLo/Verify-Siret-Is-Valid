@@ -9,8 +9,8 @@ To start using this project, follow these steps to install the necessary depende
 1. **Clone the Repository** :
 
    ```bash
-   git clone https://github.com/YouvaLo/Verify-Siret-Is-Valid.git
-   cd verify-siret-number
+   git clone https://github.com/YouvaLo/verify-siret-number-is-valid.git
+   cd verify-siret-number-is-valid
 
 2. **Install Dependencies** : 
 
